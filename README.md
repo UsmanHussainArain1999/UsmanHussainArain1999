@@ -44,8 +44,8 @@ I engineer high-performance enterprise solutions and scalable SaaS platforms. Wi
 ---
 
 ### 📊 GitHub Stats
-![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsmanHussainArain1999&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanHussainArain1999&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 <div align="center">
