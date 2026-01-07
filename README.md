@@ -6,17 +6,17 @@
 I engineer high-performance enterprise solutions and scalable SaaS platforms. With 6+ years of experience, I bridge the gap between complex backend logic and pixel-perfect modern UIs. I specialize in modernizing legacy systems (**.NET 4 to .NET 8**) and building architecture that handles massive scale (500k+ monthly requests).
 
 ---
-
 ### 🚀 Specialized Domain Expertise
 *Recruiters & Founders: This is the specific business logic I have deployed in production.*
 
 | Domain | Key Technologies & Implementations |
 | :--- | :--- |
-| **💳 Fintech & Payments** | **Stripe Connect** (Marketplaces), **Stripe UI**, **PayPal**, **PayHalal**. Expert in handling subscriptions, split-payments, and custom billing engines. |
+| **🏢 Enterprise SaaS** | **Multi-Tenant Architecture**, **RBAC** (Role-Based Access Control), **SSO** (Auth0/Azure AD), **White-Label Solutions**. Expert in building secure, scalable platforms for Fortune 500s. |
 | **🌍 SaaS Marketplaces** | **Multi-Language (i18n)**, **Multi-Currency** Logic, **Google Maps** (Geofencing & Area Targeting), B2B/B2C Architectures. |
-| **📊 Data & Social** | **Meta API** Integration, **Business Profile Scraping** (Yelp, TripAdvisor, Google Business), Social Intelligence Dashboards. |
-| **🤖 QA Automation** | **Headspin**, **Amazon Device Farm**, Custom **Physical Device Automation** via WebSockets, End-to-End Testing Suites. |
-
+| **📈 Big Data & Analytics** | **Real-Time Sales Dashboards**, **Inventory Forecasting**, **High-Volume SQL Optimization** (Processing millions of rows), Data Visualization (AG Grid/Charts), Cross-Platform Data Aggregation. |
+| **💳 Fintech & Payments** | **Stripe Connect** (Marketplaces), **Stripe UI**, **PayPal**, **PayHalal**. Expert in handling complex **Subscriptions**, **Split-Payments**, and Tax/Invoicing logic. |
+| **📍 LBS & Marketplaces** | **Google Maps** (Geofencing & Area Targeting), **B2B/B2C Marketplaces**, **Multi-Currency** & **Multi-Language** (i18n) Logic for Global deployment. |
+| **🤖 QA & Automation** | **Headspin**, **Amazon Device Farm**, Custom **Physical Device Automation** via WebSockets, **Social Intelligence Scrapers** (Meta/Yelp/TripAdvisor). |
 ---
 
 ### 🔭 What I'm Up To
