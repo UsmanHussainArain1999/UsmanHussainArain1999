@@ -41,13 +41,6 @@ I engineer high-performance enterprise solutions and scalable SaaS platforms. Wi
 
 **Integrations:** ![Stripe](https://img.shields.io/badge/Stripe-5433FF?style=for-the-badge&logo=stripe&logoColor=white) ![Google Maps](https://img.shields.io/badge/Google_Maps-4285F4?style=for-the-badge&logo=google-maps&logoColor=white) ![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)
 
----
-
-### 📊 GitHub Stats
-![Usman's GitHub stats](https://github-readme-stats.vercel.app/api?username=UsmanHussainArain1999&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=UsmanHussainArain1999&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
----
 <div align="center">
   <a href="https://usmandev.pro">
     <img src="https://img.shields.io/badge/Hire_Me-Visit%20Portfolio-blue?style=for-the-badge&logo=linkedin" alt="Portfolio" />
