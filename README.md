@@ -1,6 +1,6 @@
 # Hi there, I'm Usman Zahid 👋
 
-### Senior Full-Stack Architect | .NET & React Specialist
+### Senior Full-Stack Developer | .NET & React Specialist
 **Ex-Fortune 500 Engineer (BMW, GEICO, AT&T)**
 
 I engineer high-performance enterprise solutions and scalable SaaS platforms. With 6+ years of experience, I bridge the gap between complex backend logic and pixel-perfect modern UIs. I specialize in modernizing legacy systems (**.NET 4 to .NET 8**) and building architecture that handles massive scale (500k+ monthly requests).
